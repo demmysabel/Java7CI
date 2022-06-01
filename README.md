@@ -42,7 +42,7 @@ public class StatisticsService {
       if (current_max < income)
         current_max = income;
         return current_max;
-  }
+  } 
 }
 Класс с тестами (его надо будет расширить новыми тестами):
 
